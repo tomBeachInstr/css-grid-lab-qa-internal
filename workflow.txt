@@ -1,16 +1,19 @@
 ======= CSS Grid Lab =======
 
 Grid Layout
-• rapidly build responsive layouts
 • similar to flexbox
+• rules of the container itself
+• designed for displaying content in two directions
+• stretching/shrinking elements by aligning them to rows and columns
+• rapidly build responsive layouts
 • grow and shrink dynamically
 • variety of screen sizes
-• rules of the container itself
-• stretching/shrinking elements by aligning them to rows and columns
 
 flexbox
 • very granular control over individual elements
 • stretch, shrink, behave in flex container
+• designed for displaying in one direction
+
 grid places a greater emphasis on setting up the rules of the container itself, automatically handling
 the stretching and shrinking of elements by aligning them to rows and columns.
 Grid is designed for displaying content in two directions, whereas flexbox is
