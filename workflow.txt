@@ -1,22 +1,10 @@
 ======= CSS Grid Lab =======
 
-## Problem Statement
-
-There are various ways to build a responsive website layout. Choosing one can be
-confusing and implementing it can be complicated. The best solution is quick,
-structured and comprehensive. Enter CSS Grid.
-
-## Objectives
-
-1. Create a CSS Grid layout
-2. Identify CSS Grid properties
-
-## Create a CSS Grid Layout
-
-CSS Grid is a set of properties that allow us to rapidly build responsive
-layouts for websites. Similar to flexbox, you can use grid properties to build
-parts of an HTML page that grow and shrink dynamically, looking good on a
-variety of screen sizes.
+Grid Layout
+• rapidly build responsive layouts
+• similar to flexbox
+• grow and shrink dynamically
+• variety of screen sizes.
 
 However, where flexbox gives you very granular control over how individual
 elements stretch, shrink and behave in a flex container, grid places a greater
