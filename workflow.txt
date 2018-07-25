@@ -14,6 +14,10 @@ flexbox
 • stretch, shrink, behave in flex container
 • very granular control over individual elements
 
+== index.html ==
+
+
+== styles.css ==
 
 
 
