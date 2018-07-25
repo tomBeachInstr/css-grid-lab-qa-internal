@@ -10,9 +10,9 @@ Grid Layout
 • variety of screen sizes
 
 flexbox
-• very granular control over individual elements
-• stretch, shrink, behave in flex container
 • designed for displaying in one direction
+• stretch, shrink, behave in flex container
+• very granular control over individual elements
 
 grid places a greater emphasis on setting up the rules of the container itself, automatically handling
 the stretching and shrinking of elements by aligning them to rows and columns.
