@@ -4,11 +4,14 @@ Grid Layout
 • rapidly build responsive layouts
 • similar to flexbox
 • grow and shrink dynamically
-• variety of screen sizes.
+• variety of screen sizes
+• rules of the container itself
+• stretching/shrinking elements by aligning them to rows and columns
 
-However, where flexbox gives you very granular control over how individual
-elements stretch, shrink and behave in a flex container, grid places a greater
-emphasis on setting up the rules of the container itself, automatically handling
+flexbox
+• very granular control over individual elements
+• stretch, shrink, behave in flex container
+grid places a greater emphasis on setting up the rules of the container itself, automatically handling
 the stretching and shrinking of elements by aligning them to rows and columns.
 Grid is designed for displaying content in two directions, whereas flexbox is
 designed for displaying in one direction.
