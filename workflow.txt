@@ -14,6 +14,11 @@ flexbox
 • stretch, shrink, behave in flex container
 • very granular control over individual elements
 
+
+
+
+=======  =======
+
 grid places a greater emphasis on setting up the rules of the container itself, automatically handling
 the stretching and shrinking of elements by aligning them to rows and columns.
 Grid is designed for displaying content in two directions, whereas flexbox is
