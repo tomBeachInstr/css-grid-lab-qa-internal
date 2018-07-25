@@ -22,3 +22,6 @@ body {
   grid-template-rows: [header-start] 1fr [header-end] repeat(auto, 1fr);
   grid-template-columns: 1fr 1fr 1fr;
 }
+.bigItem {
+  grid-area: 2 / 2 / 4 / 4;
+}
